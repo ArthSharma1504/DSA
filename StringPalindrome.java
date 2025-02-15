@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.*;
 
 public class StringPalindrome {
     public static void main(String[] args) {
